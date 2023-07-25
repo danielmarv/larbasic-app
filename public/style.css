@@ -1,3 +1,9 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
 nav
 {
     background-color: skyblue;
@@ -8,4 +14,19 @@ nav
 ul
 {
     float: right;
+    margin-right: 20px;
+    line-height: 70px;
+}
+
+ul li
+{
+    display: inline-block;
+}
+
+.logo
+{
+    line-height: 70px;
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
 }
