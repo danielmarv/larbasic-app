@@ -10,7 +10,7 @@
     </head>
     <body>
         <nav>
-            <label>Joshic Web</label>
+            <label class="logo">Joshic Web</label>
 
             <ul>
                 <li>
